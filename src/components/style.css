@@ -1,0 +1,42 @@
+.header {
+    height: 100vh;
+    background-image: url('../assets/bg/main.jpg');
+    background-size: cover;
+}
+
+.caption {
+    height: 100vh;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+}
+
+/* .sph {
+    padding: 50px;
+    height: auto;
+    background-image: url('../assets/bg/scifi.jpg');
+    background-size: cover;
+}
+
+.trd {
+    padding: 50px;
+    height: auto;
+    background-image: url('../assets/bg/scifi.jpg');
+    background-size: cover;
+} */
+.bgc {
+    padding: 50px;
+    height: auto;
+    background-image: url('../assets/bg/scifi.jpg');
+    background-size: cover;
+}
+
+.imgcard {
+    height: 500px;
+}
+
+.detail {
+    width: 100vh;
+}
